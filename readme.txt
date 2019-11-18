@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+笔记本联通专用仓库
