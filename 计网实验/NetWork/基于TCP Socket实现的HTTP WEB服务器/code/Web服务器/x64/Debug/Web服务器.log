@@ -1,0 +1,32 @@
+﻿  WebServer.cpp
+C:\Users\16154\Documents\Repository\计网实验\NetWork\基于TCP Socket实现的HTTP WEB服务器\code\Web服务器\WebServer.cpp(60,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16154\Documents\Repository\计网实验\NetWork\基于TCP Socket实现的HTTP WEB服务器\code\Web服务器\WebServer.cpp(72,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16154\Documents\Repository\计网实验\NetWork\基于TCP Socket实现的HTTP WEB服务器\code\Web服务器\WebServer.cpp(84,6): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571,1): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571,1): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571,1): warning C4244:             _Ty=unsigned __int64
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571,1): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571): message : 查看对正在编译的函数 模板 实例化“void std::_Invoker_functor::_Call<void(__cdecl *)(int),_Ty>(_Callable &&,_Ty &&) noexcept(false)”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571): message :             _Ty=unsigned __int64,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571): message :             _Callable=void (__cdecl *)(int)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\type_traits(1571): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(40): message : 查看对正在编译的函数 模板 实例化“void std::invoke<void(__cdecl *)(int),unsigned __int64>(_Callable &&,unsigned __int64 &&) noexcept(false)”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(40): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(40): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(40): message :             _Callable=void (__cdecl *)(int)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(40): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(48): message : 查看对正在编译的函数 模板 实例化“unsigned int std::thread::_Invoke<_Tuple,0,1>(void *) noexcept”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(48): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(48): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(48): message :             _Tuple=_Tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(48): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(56): message : 查看对正在编译的函数 模板 实例化“unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1>(std::integer_sequence<unsigned __int64,0,1>) noexcept)(void *)”的引用
+C:\Users\16154\Documents\Repository\计网实验\NetWork\基于TCP Socket实现的HTTP WEB服务器\code\Web服务器\WebServer.cpp(220): message : 查看对正在编译的函数 模板 实例化“std::thread::thread<void(__cdecl &)(int),SOCKET&,void>(_Fn,SOCKET &)”的引用
+C:\Users\16154\Documents\Repository\计网实验\NetWork\基于TCP Socket实现的HTTP WEB服务器\code\Web服务器\WebServer.cpp(220): message :         with
+C:\Users\16154\Documents\Repository\计网实验\NetWork\基于TCP Socket实现的HTTP WEB服务器\code\Web服务器\WebServer.cpp(220): message :         [
+C:\Users\16154\Documents\Repository\计网实验\NetWork\基于TCP Socket实现的HTTP WEB服务器\code\Web服务器\WebServer.cpp(220): message :             _Fn=void (__cdecl &)(int)
+C:\Users\16154\Documents\Repository\计网实验\NetWork\基于TCP Socket实现的HTTP WEB服务器\code\Web服务器\WebServer.cpp(220): message :         ]
+  Web服务器.vcxproj -> C:\Users\16154\Documents\Repository\计网实验\NetWork\基于TCP Socket实现的HTTP WEB服务器\code\x64\Debug\Web服务器.exe

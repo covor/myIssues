@@ -1,6 +1,89 @@
 ﻿  Socket.cpp
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(20,31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(24,39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(28,31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(32,31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(36,32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(40,32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(50,34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(55,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(77,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(78,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(79,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(80,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(92,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(126,22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(127,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\16154\Documents\Repository\计网实验\NetWork\Exp1\Socket\Socket.cpp(143,6): warning C4101: “ClientAddrLen”: 未引用的局部变量
   正在生成代码
-  Compiler switch has changed, fall back to full compilation.
-  All 45 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  Socket.vcxproj -> C:\Users\16154\Documents\NetWork\Exp1\Socket\Release\Socket.exe
+LINK : fatal error C1001: 编译器中发生内部错误。
+  (编译器文件“d:\agent\_work\4\s\src\vctools\Compiler\Utc\src\p2\main.c”，第 160 行)
+   要解决此问题，请尝试简化或更改上面所列位置附近的程序。
+  请选择 Visual C++
+  “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息。
+    link!InvokeCompilerPass()+0x2e3f2
+    link!InvokeCompilerPass()+0x21eff
+    link!InvokeCompilerPass()+0x21e20
+    link!InvokeCompilerPass()+0x2d4a0
+    link!CloseTypeServerPDB()+0x2f8bf
+    link!CloseTypeServerPDB()+0x2f805
+    link!CloseTypeServerPDB()+0x6664
+    link!CloseTypeServerPDB()+0x623f
+    link!InvokeCompilerPassW()+0xd55
+    link!InvokeCompilerPassW()+0x2c4
+  
+LINK : fatal error C1001: 编译器中发生内部错误。
+  (编译器文件“d:\agent\_work\4\s\src\vctools\Compiler\Utc\src\p2\main.c”，第 160 行)
+   要解决此问题，请尝试简化或更改上面所列位置附近的程序。
+  请选择 Visual C++
+  “帮助”菜单上的“技术支持”命令，或打开技术支持帮助文件来获得详细信息。
+    link!InvokeCompilerPass()+0x2e3f2
+    link!InvokeCompilerPass()+0x21eff
+    link!InvokeCompilerPass()+0x21e20
+    link!InvokeCompilerPass()+0x2d4a0
+    link!CloseTypeServerPDB()+0x2f8bf
+    link!CloseTypeServerPDB()+0x2f805
+    link!CloseTypeServerPDB()+0x6664
+    link!CloseTypeServerPDB()+0x623f
+    link!InvokeCompilerPassW()+0xd55
+    link!InvokeCompilerPassW()+0x2c4
+  
+  
+LINK : fatal error LNK1000: Internal error during IMAGE::BuildImage
+  
+    Version 14.23.28107.0
+  
+    ExceptionCode            = C0000005
+    ExceptionFlags           = 00000000
+    ExceptionAddress         = 025A3C0A (02100000) "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\c2.dll"
+    NumberParameters         = 00000002
+    ExceptionInformation[ 0] = 00000000
+    ExceptionInformation[ 1] = 66267A52
+  
+  CONTEXT:
+    Eax    = 00000000  Esp    = 0093E6D8
+    Ebx    = 66267A52  Ebp    = 0093E6E8
+    Ecx    = 00001505  Esi    = 00000000
+    Edx    = 00000000  Edi    = 00000000
+    Eip    = 025A3C0A  EFlags = 00010246
+    SegCs  = 00000023  SegDs  = 0000002B
+    SegSs  = 0000002B  SegEs  = 0000002B
+    SegFs  = 00000053  SegGs  = 0000002B
+    Dr0    = 00000000  Dr3    = 00000000
+    Dr1    = 00000000  Dr6    = 00000000
+    Dr2    = 00000000  Dr7    = 00000000
